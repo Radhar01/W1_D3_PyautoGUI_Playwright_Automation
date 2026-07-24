@@ -1,7 +1,7 @@
 [
     {
         "name": "Niha Airtel",
-        "phone": 9XXXXXXXXX,
+        "phone": "9XXXXXXXXX",
         "message": "Hi Niha Airtel, hope you are doing well!",
         "status": "contact not found",
         "screenshot": "",
@@ -9,7 +9,7 @@
     },
     {
         "name": "Rajesh Jio",
-        "phone": 7XXXXXXXXXs,
+        "phone": "7XXXXXXXXX",
         "message": "Hello Rajesh Jio, this is a test message.",
         "status": "contact not found",
         "screenshot": "",
